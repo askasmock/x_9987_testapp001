@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>This is a client script that was created in the scoped app outside of the GIT repo</description>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>TestClient ScriptInUpdateSet_v1</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   alert('This is a client script that was created in the scoped app on another instance in an update set');
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-24 17:11:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>380ed2019302721067c133ddfaba10b8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>TestClient ScriptInUpdateSet_v1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TestApp001" source="x_9987_testapp001">f62011f883023210da1b91d6feaad38c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApp001">f62011f883023210da1b91d6feaad38c</sys_scope>
+        <sys_update_name>sys_script_client_380ed2019302721067c133ddfaba10b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-24 17:14:04</sys_updated_on>
+        <table>x_9987_testapp001_testtbl001</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
