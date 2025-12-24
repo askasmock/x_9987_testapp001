@@ -84,7 +84,7 @@
         <sys_parent display_value="TestTbl001">490259b483423210da1b91d6feaad3ce</sys_parent>
         <sys_policy/>
         <sys_scope display_value="TestApp001">f62011f883023210da1b91d6feaad38c</sys_scope>
-        <sys_scope_delete display_value="TestApp001">4188bdefde9e4ea4a81b82b8726d2910</sys_scope_delete>
+        <sys_scope_delete/>
         <sys_update_name>sys_ui_policy_42a2513883423210da1b91d6feaad3d8</sys_update_name>
         <sys_update_version display_value="sys_ui_policy_42a2513883423210da1b91d6feaad3d8">1c23153883423210da1b91d6feaad378</sys_update_version>
         <sys_updated_by>admin</sys_updated_by>
